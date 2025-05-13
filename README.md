@@ -45,5 +45,5 @@ You can find me online at the following places:
 
 If you’d like to get in touch with me, you can do so via:
 
-- **Telegram:** @nyx_lyb3ra
-- **Signal:** nyx_lyb3ra.42
+- **Telegram:** [@nyx_lyb3ra](https://t.me/nyx_lyb3ra)
+- **Signal:** [nyx_lyb3ra.42](https://signal.me/#u/nyx_lyb3ra.42)
