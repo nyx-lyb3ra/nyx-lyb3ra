@@ -12,14 +12,14 @@ build a fairer world for everyone.
 
 ## Interests
 
-- **Anarchism:** I found in anarchism a way to understand the world and what I
-  want to build within it.
 - **Programming:** My logical and analytical mind found in programming, a
   language it understands perfectly.
-- **Video Games:** They are my escape route, a grounding wire (or maybe a wire
-  to another world) where I can let my imagination run wild.
+- **Anarchism:** I found in anarchism a way to understand the world and what I
+  want to build within it.
 - **Anime:** I find Japanese animation really useful for finding stories that
   help me learn, grow, and see myself represented.
+- **Video Games:** They are my escape route, a grounding wire (or maybe a wire
+  to another world) where I can let my imagination run wild.
 
 ## Constellation of Girlfriends
 
