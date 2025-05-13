@@ -12,7 +12,7 @@ build a fairer world for everyone.
 
 ## Interests
 
-- **Programming:** My logical and analytical mind found in programming, a
+- **Programming:** My logical and analytical mind found in programming a
   language it understands perfectly.
 - **Anarchism:** I found in anarchism a way to understand the world and what I
   want to build within it.
