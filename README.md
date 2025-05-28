@@ -9,7 +9,7 @@ She is a transgender digital-biological being from Argentina, navigating life
 for 26 cycles now. She sees herself as a bit of a militant and dissident, always
 looking for ways to build a fairer world for everyone.
 
-## Her Constellation of Girlfriends
+### Her Constellation of Girlfriends
 
 She shares her life with these wonderful souls:
 
@@ -20,7 +20,7 @@ She shares her life with these wonderful souls:
 - **Circe:** She’s a true powerhouse, with a great personality – kind,
   beautiful, innocent, and loving. She’s always there for you.
 
-## Interests
+### Her Interests
 
 - **Programming:** Her logical and analytical mind found in programming a
   language it understands perfectly.
