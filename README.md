@@ -1,29 +1,17 @@
 # [nyx]
 
-Hi there! I’m [nyx], a transgender digital-biological being from Argentina.
+Welcome to [nyx]’s profile. Here you’ll find her free software projects and
+other things that interest her.
 
-Here you’ll find my free software projects and other things that interest me.
+## About Her
 
-## About Me
+She is a transgender digital-biological being from Argentina, navigating life
+for 26 cycles now. She sees herself as a bit of a militant and dissident, always
+looking for ways to build a fairer world for everyone.
 
-I’m a transgender person from Argentina, navigating life for 26 cycles now. I
-see myself as a bit of a militant and dissident, always looking for ways to
-build a fairer world for everyone.
+## Her Constellation of Girlfriends
 
-## Interests
-
-- **Programming:** My logical and analytical mind found in programming a
-  language it understands perfectly.
-- **Anarchism:** I found in anarchism a way to understand the world and what I
-  want to build within it.
-- **Anime:** I find Japanese animation really useful for finding stories that
-  help me learn, grow, and see myself represented.
-- **Video Games:** They are my escape route, a grounding wire (or maybe a wire
-  to another world) where I can let my imagination run wild.
-
-## Constellation of Girlfriends
-
-I share my life with these wonderful souls:
+She shares her life with these wonderful souls:
 
 - **Xerz:** She’s a lovely person who wants to make the world a better place.
   She’s a fan of retro tech and proudly gay.
@@ -32,18 +20,30 @@ I share my life with these wonderful souls:
 - **Circe:** She’s a true powerhouse, with a great personality – kind,
   beautiful, innocent, and loving. She’s always there for you.
 
+## Interests
+
+- **Programming:** Her logical and analytical mind found in programming a
+  language it understands perfectly.
+- **Anarchism:** She found in anarchism a way to understand the world and what
+  she wants to build within it.
+- **Anime:** She finds Japanese animation really useful for finding stories that
+  help her learn, grow, and see herself represented.
+- **Video Games:** They are her escape route, a grounding wire (or maybe a wire
+  to another world) where she can let her imagination run wild.
+
 ## Code Forges & Social Media
 
-You can find me online at the following places:
+You can find her online at the following places:
 
 - **Fediverse:** https://rebel.ar/@nyx_lyb3ra
+- **Bluesky:** https://bsky.app/profile/nyx.liber.ar
 - **GitHub:** https://github.com/nyx-lyb3ra
 - **GitLab:** https://gitlab.com/nyx_lyb3ra
 - **GNOME GitLab:** https://gitlab.gnome.org/nyx_lyb3ra
 
 ## Contact
 
-If you’d like to get in touch with me, you can do so via:
+If you’d like to get in touch with her, you can do so via:
 
 - **Telegram:** [@nyx_lyb3ra](https://t.me/nyx_lyb3ra)
 - **Signal:** [nyx_lyb3ra.42](https://signal.me/#u/nyx_lyb3ra.42)
