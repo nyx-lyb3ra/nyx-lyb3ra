@@ -35,8 +35,9 @@ She shares her life with these wonderful souls:
 
 You can find her online at the following places:
 
-- **Fediverse:** https://rebel.ar/@nyx_lyb3ra
 - **Bluesky:** https://bsky.app/profile/nyx.liber.ar
+- **Fediverse:** https://rebel.ar/@nyx_lyb3ra
+- **LinkedIn:** https://linkedin.com/in/naiara-gomez-castro
 - **Codeberg:** https://codeberg.org/nyx_lyb3ra
 - **GitHub:** https://github.com/nyx-lyb3ra
 - **GitLab:** https://gitlab.com/nyx_lyb3ra
