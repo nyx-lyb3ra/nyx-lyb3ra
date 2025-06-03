@@ -37,6 +37,7 @@ You can find her online at the following places:
 
 - **Fediverse:** https://rebel.ar/@nyx_lyb3ra
 - **Bluesky:** https://bsky.app/profile/nyx.liber.ar
+- **Codeberg:** https://codeberg.org/nyx_lyb3ra
 - **GitHub:** https://github.com/nyx-lyb3ra
 - **GitLab:** https://gitlab.com/nyx_lyb3ra
 - **GNOME GitLab:** https://gitlab.gnome.org/nyx_lyb3ra
