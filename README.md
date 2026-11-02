@@ -43,14 +43,14 @@ slightly better state than i found it
 - **telegram**: [@nyx_lyb3ra][telegram]
 - **linkedin**: [naiara gomez castro][linkedin]
 
-[kuychi]: https://codeberg.org/nyx_lyb3ra/kuychi
-[gnome-ts-template]: https://codeberg.org/nyx_lyb3ra/gnome-ts-template
 [awa]: https://codeberg.org/nyx_lyb3ra/awa
-[fediverse]: https://soc.masfloss.net/@nyx_lyb3ra
-[linkedin]: https://linkedin.com/in/naiara-gomez-castro
 [codeberg]: https://codeberg.org/nyx_lyb3ra
+[fediverse]: https://soc.masfloss.net/@nyx_lyb3ra
 [github]: https://github.com/nyx-lyb3ra
 [gitlab]: https://gitlab.com/nyx_lyb3ra
 [gnome-gitlab]: https://gitlab.gnome.org/nyx_lyb3ra
-[telegram]: https://t.me/nyx_lyb3ra
+[gnome-ts-template]: https://codeberg.org/nyx_lyb3ra/gnome-ts-template
+[kuychi]: https://codeberg.org/nyx_lyb3ra/kuychi
+[linkedin]: https://linkedin.com/in/naiara-gomez-castro
 [signal]: https://signal.me/#u/nyx_lyb3ra.42
+[telegram]: https://t.me/nyx_lyb3ra
