@@ -5,7 +5,7 @@
     nai 🖤
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/pronouns-dark.svg">
-      <img src="assets/pronouns-light.svg" height="24" align="center" alt="she/her">
+      <img src="assets/pronouns-light.svg" height="24" alt="she/her">
     </picture>
   </h1>
 
