@@ -2,11 +2,7 @@
   <img src="assets/header.svg" width="100%" alt="header">
 
   <h1>
-    nai 🖤
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/pronouns-dark.svg">
-      <img src="assets/pronouns-light.svg" height="24" alt="she/her">
-    </picture>
+    nai 🖤 <img src="assets/pronouns.svg" height="24" alt="she/her">
   </h1>
 
   <p>
