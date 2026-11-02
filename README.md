@@ -23,31 +23,25 @@ slightly better state than i found it
 
 ## my projects
 
-these are the projects i’ve worked on:
-
 - [**k’uychi**][kuychi]: a small app that generates shades from the selected
   color
 - [**gnome-ts-template**][gnome-ts-template]: a template to create apps for
   gnome using typescript
 - [**awa**][awa]: a mini-framework to manage the nix outputs of a project
 
-## code forges & social media
+## code forges
 
-you can find me online at:
+- **codeberg**: [@nyx_lyb3ra][codeberg] *(primary)*
+- **gnome gitlab**: [@nyx_lyb3ra][gnome-gitlab]
+- **gitlab**: [@nyx_lyb3ra][gitlab]
+- **github**: [@nyx-lyb3ra][github]
+
+## find me / contact
 
 - **fediverse**: [@nyx_lyb3ra@masfloss.net][fediverse]
-- **linkedin**: [in/naiara-gomez-castro][linkedin]
-- **codeberg**: [@nyx_lyb3ra][codeberg]
-- **github**: [@nyx-lyb3ra][github]
-- **gitlab**: [@nyx_lyb3ra][gitlab]
-- **gnome gitlab**: [@nyx_lyb3ra][gnome-gitlab]
-
-## contact
-
-you can get in touch with me at:
-
+- **signal**: [nyx_lyb3ra.42][signal]
 - **telegram**: [@nyx_lyb3ra][telegram]
-- **signal**: [@nyx_lyb3ra.42][signal]
+- **linkedin**: [naiara gomez castro][linkedin]
 
 [kuychi]: https://codeberg.org/nyx_lyb3ra/kuychi
 [gnome-ts-template]: https://codeberg.org/nyx_lyb3ra/gnome-ts-template
