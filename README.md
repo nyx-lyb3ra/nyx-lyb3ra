@@ -1,51 +1,62 @@
-# [nyx]
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="header">
 
-Welcome to [nyx]’s profile. Here you’ll find her free software projects and
-other things that interest her.
+  <h1>
+    nai 🖤
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/pronouns-dark.svg">
+      <img src="assets/pronouns-light.svg" height="24" align="center" alt="she/her">
+    </picture>
+  </h1>
 
-## About Her
+  <p>
+    anxious, polyamorous, transfem disaster. probably coding something i’ll
+    never finish
+  </p>
+</div>
 
-She is a transgender digital-biological being from Argentina, navigating life
-for 26 cycles now. She sees herself as a bit of a militant and dissident, always
-looking for ways to build a fairer world for everyone.
+## about me
 
-### Her Constellation of Girlfriends
+i’m a 28-year-old transfeminine software developer based in **argentina**. my
+goal is to build tools that help the people around me and leave the world in a
+slightly better state than i found it
 
-She shares her life with these wonderful souls:
+## my projects
 
-- **Xerz:** She’s a lovely person who wants to make the world a better place.
-  She’s a fan of retro tech and proudly gay.
-- **Eche:** She has a feisty, sassy side, but she also has a good heart and a
-  real passion for life.
-- **Circe:** She’s a true powerhouse, with a great personality – kind,
-  beautiful, innocent, and loving. She’s always there for you.
+these are the projects i’ve worked on:
 
-### Her Interests
+- [**k’uychi**][kuychi]: a small app that generates shades from the selected
+  color
+- [**gnome-ts-template**][gnome-ts-template]: a template to create apps for
+  gnome using typescript
+- [**awa**][awa]: a mini-framework to manage the nix outputs of a project
 
-- **Programming:** Her logical and analytical mind found in programming a
-  language it understands perfectly.
-- **Anarchism:** She found in anarchism a way to understand the world and what
-  she wants to build within it.
-- **Anime:** She finds Japanese animation really useful for finding stories that
-  help her learn, grow, and see herself represented.
-- **Video Games:** They are her escape route, a grounding wire (or maybe a wire
-  to another world) where she can let her imagination run wild.
+## code forges & social media
 
-## Code Forges & Social Media
+you can find me online at:
 
-You can find her online at the following places:
+- **fediverse**: [@nyx_lyb3ra@masfloss.net][fediverse]
+- **linkedin**: [in/naiara-gomez-castro][linkedin]
+- **codeberg**: [@nyx_lyb3ra][codeberg]
+- **github**: [@nyx-lyb3ra][github]
+- **gitlab**: [@nyx_lyb3ra][gitlab]
+- **gnome gitlab**: [@nyx_lyb3ra][gnome-gitlab]
 
-- **Bluesky:** https://bsky.app/profile/nyx.liber.ar
-- **Fediverse:** https://tech.lgbt/@nyx_lyb3ra
-- **LinkedIn:** https://linkedin.com/in/naiara-gomez-castro
-- **Codeberg:** https://codeberg.org/nyx_lyb3ra
-- **GitHub:** https://github.com/nyx-lyb3ra
-- **GitLab:** https://gitlab.com/nyx_lyb3ra
-- **GNOME GitLab:** https://gitlab.gnome.org/nyx_lyb3ra
+## contact
 
-## Contact
+you can get in touch with me at:
 
-If you’d like to get in touch with her, you can do so via:
+- **telegram**: [@nyx_lyb3ra][telegram]
+- **signal**: [@nyx_lyb3ra.42][signal]
 
-- **Telegram:** [@nyx_lyb3ra](https://t.me/nyx_lyb3ra)
-- **Signal:** [nyx_lyb3ra.42](https://signal.me/#u/nyx_lyb3ra.42)
+[kuychi]: https://codeberg.org/nyx_lyb3ra/kuychi
+[gnome-ts-template]: https://codeberg.org/nyx_lyb3ra/gnome-ts-template
+[awa]: https://codeberg.org/nyx_lyb3ra/awa
+[fediverse]: https://soc.masfloss.net/@nyx_lyb3ra
+[linkedin]: https://linkedin.com/in/naiara-gomez-castro
+[codeberg]: https://codeberg.org/nyx_lyb3ra
+[github]: https://github.com/nyx-lyb3ra
+[gitlab]: https://gitlab.com/nyx_lyb3ra
+[gnome-gitlab]: https://gitlab.gnome.org/nyx_lyb3ra
+[telegram]: https://t.me/nyx_lyb3ra
+[signal]: https://signal.me/#u/nyx_lyb3ra.42
