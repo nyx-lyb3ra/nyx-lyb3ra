@@ -27,7 +27,7 @@ slightly better state than i found it
 
 ## code forges
 
-- **codeberg**: [@nyx_lyb3ra][codeberg] *(primary)*
+- **codeberg**: [@nyx_lyb3ra][codeberg] _(primary)_
 - **gnome gitlab**: [@nyx_lyb3ra][gnome-gitlab]
 - **gitlab**: [@nyx_lyb3ra][gitlab]
 - **github**: [@nyx-lyb3ra][github]
