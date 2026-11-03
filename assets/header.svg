@@ -6,7 +6,7 @@
     </clipPath>
 
     <clipPath id="banner-clip">
-      <rect width="150" height="50" rx="2" />
+      <rect width="150" height="50" rx="4" />
     </clipPath>
   </defs>
 
